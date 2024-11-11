@@ -4,13 +4,9 @@ Each project in this portfolio demonstrates my ability to tackle diverse analyti
 
 Please explore the individual projects in this portfolio for a more detailed understanding of my data analytics capabilities and how I can contribute to your organization's success.
 
+**1. Gym Check-ins and User Metadata** 
+-- Dataset: Gym Check-ins and User Metadata
+-- Source: https://www.kaggle.com/datasets/mexwell/gym-check-ins-and-user-metadata
+-- Queried using: MySQL Workbench
 
-
-**1. Consumer Complaints Project: Data Cleaning & Data Exploratory**
-   
-The dataset contains different information on complaints that customers have made about multiple products and services in the financial sector, such us Credit Reports, Student Loans, Money Transfers, etc.
-
-
-**2. Sport Dataset: Data Cleaning & Data Exploratory**
-   
-This dataset presents a messy and raw collection of data from EA Sports' latest FIFA series, FIFA21, scraped from sofifa.com. This dataset provides an excellent opportunity to learn and practice data cleaning skills.
+This dataset contains information on user check-ins at different gym locations, along with related user metadata. The data is relatively clean and was used to practice building data models, standardizing fields, and extracting and querying information across multiple tables for analysis and visualization purposes. The focus was on performing various analyses and creating insights based on the gym check-in data.

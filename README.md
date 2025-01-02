@@ -8,6 +8,7 @@ Please explore the individual projects in this portfolio for a more detailed und
 
 This dataset contains information on user check-ins at different gym locations, along with related user metadata. The data is relatively clean and was used to practice building data models, standardizing fields, and extracting and querying information across multiple tables for analysis and visualization purposes. The focus was on performing various analyses and creating insights based on the gym check-in data.
   - Tools used: MySQL, Tableau
+    
 **[2. Real Estate Sales Analysis 2001 - 2022](https://github.com/maidinh2409/Real-Estate-Sales-Analysis)**
 
 This dataset, obtained from data.gov, consists of over 1 million rows of real estate sales data collected by a company over 21 years. It serves as a practical resource for focusing on data transformation, cleaning null values, detecting outliers, and addressing inconsistent data. The project aims to enhance skills in data manipulation and standardization using Python, while also providing hands-on experience with basic plotting techniques.

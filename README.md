@@ -11,5 +11,5 @@ This dataset contains information on user check-ins at different gym locations, 
     
 **[2. Real Estate Sales Analysis 2001 - 2022](https://github.com/maidinh2409/Real-Estate-Sales-Analysis)**
 
-This dataset, obtained from data.gov, consists of over 1 million rows of real estate sales data collected by a company over 21 years. It serves as a practical resource for focusing on data transformation, cleaning null values, detecting outliers, and addressing inconsistent data. The project aims to enhance skills in data manipulation and standardization using Python, while also providing hands-on experience with basic plotting techniques.
+This dataset, sourced from data.gov, contains over 1 million rows of real estate sales data spanning 21 years. It was utilized to clean and transform data using pandas, addressing null values, resolving inconsistencies, and detecting outliers through statistical analysis and visualization. Exploratory Data Analysis (EDA) was conducted using Matplotlib and Seaborn to plot and analyze distributions, patterns, and trends, yielding insights based on metrics and distribution theory.
   - Tool used: Python

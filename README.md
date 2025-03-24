@@ -4,7 +4,7 @@ Each project in this portfolio demonstrates my ability to tackle diverse analyti
 
 Please explore the individual projects in this portfolio for a more detailed understanding of my data analytics capabilities and how I can contribute to your organization's success.
 
-**[1. AIDS-Censoring-ML-Classifiers](https://github.com/maidinh2409/AIDS-ML-Classification)**
+**[1. AIDS-Survivor-ML-Classifiers](https://github.com/maidinh2409/AIDS-ML-Classification)**
 
 This is a dataset from the medical industry that contains data of patients diagnosed with HIV/AIDS who are participating in a study with the goal of observing whether or not each patient died within a certain observation time. The purpose is to examine the performance of two different types of AIDS treatments (with ZDV treatments and no ZDV treatments)
 - Tools used: Python

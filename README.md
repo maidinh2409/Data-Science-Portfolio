@@ -9,6 +9,7 @@ Please explore the individual projects in this portfolio for a more detailed und
 This is a dataset from the medical industry that contains data of patients diagnosed with HIV/AIDS who are participating in a study with the goal of observing whether or not each patient died within a certain observation time. The purpose is to examine the performance of two different types of AIDS treatments (with ZDV treatments and no ZDV treatments)
 - Tools used: Python
 - Models: Logistics Regression, Kernel Support Vector Machine (SVM), K-Nearest Neighbors (KNN), Decision Tree
+_(Other ML Projects: https://github.com/maidinh2409/ML-Repositories)_
 
 **[2. Gym Check-ins and User Metadata](https://github.com/maidinh2409/Gym-Check-ins-and-User-Metadata)**
 

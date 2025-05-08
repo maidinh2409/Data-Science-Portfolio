@@ -25,7 +25,7 @@ Readers will gain a deeper understanding of planetary habitability by identifyin
 **<ins>Tech Stack:</ins>**
 
 - Languages: Python, SQL
-- Tools: dbt, Google BigQuery, Power BI, scikit-learn, XGBoost, APIs (NASA, Asterank)
+- Tools: dbt, Google BigQuery, Power BI, RESTFul APIs (NASA, Asterank)
 
 **[1. AIDS-Survivor-ML-Classifiers](https://github.com/maidinh2409/AIDS-ML-Classification)**
 

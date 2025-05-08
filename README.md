@@ -14,13 +14,16 @@ End-to-end project assessing exoplanet habitability using real astronomical data
   + Built a Power BI dashboard to explore habitability patterns
   + Trained XGBoost and logistic regression models to classify planets
 
-<ins>Purpose:</ins>
+**<ins>Purpose:</ins>**
+
 To apply real-world tools and best practices in data engineering, analytics, and machine learning on a space science problem, delivering both actionable insights and a scalable classification system.
 
-<ins>Purpose:</ins>
-Identify clusters of potentially habitable exoplanets based on star system properties, location, and physical traits. Predict the likelihood of exoplanet habitability with interpretable performance metrics and deployable logic
+**<ins>Expected insights:</ins>**
 
-<ins>Tech Stack:</ins>
+Readers will gain a deeper understanding of planetary habitability by identifying clusters of potentially habitable exoplanets based on star system attributes, spatial location, and physical characteristics. Machine learning models are leveraged to predict habitability likelihood with interpretable metrics and deployment-ready logic.
+
+**<ins>Tech Stack:</ins>**
+
 - Languages: Python, SQL
 - Tools: dbt, Google BigQuery, Power BI, scikit-learn, XGBoost, APIs (NASA, Asterank)
 

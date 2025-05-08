@@ -4,6 +4,26 @@ Each project in this portfolio demonstrates my ability to tackle diverse analyti
 
 Please explore the individual projects in this portfolio for a more detailed understanding of my data analytics capabilities and how I can contribute to your organization's success.
 
+**[1. Exoplanet Habitability Analysis](https://github.com/maidinh2409/AIDS-ML-Classification)**
+
+End-to-end project assessing exoplanet habitability using real astronomical data. I structured the workflow into three stages:
+
+- **Data Extraction**: Collected data via NASA and Asterank APIs
+- **ELT Pipeline**: Used dbt + BigQuery to clean, transform, and validate planetary features
+- **BI & ML Deployment**:
+  + Built a Power BI dashboard to explore habitability patterns
+  + Trained XGBoost and logistic regression models to classify planets
+
+<ins>Purpose:</ins>
+To apply real-world tools and best practices in data engineering, analytics, and machine learning on a space science problem, delivering both actionable insights and a scalable classification system.
+
+<ins>Purpose:</ins>
+Identify clusters of potentially habitable exoplanets based on star system properties, location, and physical traits. Predict the likelihood of exoplanet habitability with interpretable performance metrics and deployable logic
+
+<ins>Tech Stack:</ins>
+- Languages: Python, SQL
+- Tools: dbt, Google BigQuery, Power BI, scikit-learn, XGBoost, APIs (NASA, Asterank)
+
 **[1. AIDS-Survivor-ML-Classifiers](https://github.com/maidinh2409/AIDS-ML-Classification)**
 
 This is a dataset from the medical industry that contains data of patients diagnosed with HIV/AIDS who are participating in a study with the goal of observing whether or not each patient died within a certain observation time. The purpose is to examine the performance of two different types of AIDS treatments (with ZDV treatments and no ZDV treatments)

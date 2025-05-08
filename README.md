@@ -4,7 +4,7 @@ Each project in this portfolio demonstrates my ability to tackle diverse analyti
 
 Please explore the individual projects in this portfolio for a more detailed understanding of my data analytics capabilities and how I can contribute to your organization's success.
 
-**[1. Exoplanet Habitability Analysis](https://github.com/maidinh2409/AIDS-ML-Classification)**
+**[1. Exoplanet Habitability Analysis](https://github.com/maidinh2409/Exoplanet-Hability-Analysis)**
 
 **<ins>Description:</ins>** End-to-end project assessing exoplanet habitability using real astronomical data. I structured the workflow into three stages:
 
@@ -49,7 +49,7 @@ _(Other ML Projects: https://github.com/maidinh2409/ML-Repositories)_
 
 **<ins>Tech Stack:</ins>** MySQL, Tableau
 
-**[4. Helmet-Wearing Object Image Classification using Deep Learning](https://github.com/maidinh2409/AIDS-ML-Classification)**
+**[4. Helmet-Wearing Object Image Classification using Deep Learning](https://github.com/maidinh2409/Helmet-Detection-Using-CNN)**
 
 *[Try the model on Hugging Face Spaces](https://huggingface.co/spaces/demile2409/CSIS-3290-Helmet-Image-Classification)*
 

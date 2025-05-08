@@ -6,7 +6,7 @@ Please explore the individual projects in this portfolio for a more detailed und
 
 **[1. Exoplanet Habitability Analysis](https://github.com/maidinh2409/AIDS-ML-Classification)**
 
-End-to-end project assessing exoplanet habitability using real astronomical data. I structured the workflow into three stages:
+**<ins>Description:</ins>** End-to-end project assessing exoplanet habitability using real astronomical data. I structured the workflow into three stages:
 
 - **Data Extraction**: Collected data via NASA and Asterank APIs
 - **ELT Pipeline**: Used dbt + BigQuery to clean, transform, and validate planetary features
@@ -25,16 +25,29 @@ End-to-end project assessing exoplanet habitability using real astronomical data
 
 **[2. AIDS-Survivor-ML-Classifiers](https://github.com/maidinh2409/AIDS-ML-Classification)**
 
-This is a dataset from the medical industry that contains data of patients diagnosed with HIV/AIDS who are participating in a study with the goal of observing whether or not each patient died within a certain observation time. The purpose is to examine the performance of two different types of AIDS treatments (with ZDV treatments and no ZDV treatments)
-- Tools used: Python
-- Models: Logistics Regression, Kernel Support Vector Machine (SVM), K-Nearest Neighbors (KNN), Decision Tree
+**<ins>Description:</ins>** This project focuses on survival prediction for HIV/AIDS patients based on clinical trial data. Using features such as treatment type and observation period, I applied multiple machine learning classifiers to predict patient outcomes and analyze the effectiveness of ZDV treatment.
+
+**<ins>Purpose:</ins>** To evaluate the role of machine learning in medical prognosis and investigate treatment differences between ZDV and non-ZDV groups in terms of survival probability.
+
+**<ins>Expected insights:</ins>** Reveals patterns in patient survival across treatment groups, demonstrates the predictive capability of various classifiers, and provides interpretable results to support healthcare research.
+
+**<ins>Tech Stack:</ins>**
+
+- Languages: Python
+- Models: Logistic Regression, KNN, SVM, Decision Tree
+- Libraries & Tools: scikit-learn, pandas, matplotlib
   
 _(Other ML Projects: https://github.com/maidinh2409/ML-Repositories)_
 
 **[3. Gym Check-ins and User Metadata](https://github.com/maidinh2409/Gym-Check-ins-and-User-Metadata)**
 
-This dataset contains information on user check-ins at different gym locations, along with related user metadata. The data is relatively clean and was used to practice building data models, standardizing fields, and extracting and querying information across multiple tables for analysis and visualization purposes. The focus was on performing various analyses and creating insights based on the gym check-in data.
-  - Tools used: MySQL, Tableau
+**<ins>Description:</ins>** This project explores gym check-in behavior using a relational dataset that includes user metadata and location-based activity logs. The focus was on modeling structured data, performing complex queries, and generating visual insights across multiple dimensions.
+
+**<ins>Purpose:</ins>** To practice data modeling, normalization, and multi-table querying, while transforming raw gym check-in data into meaningful business intelligence.
+
+**<ins>Expected insights:</ins>** Uncovered trends in user activity across locations, peak usage times, and behavior patterns by user segment, visualized through interactive dashboards.
+
+**<ins>Tech Stack:</ins>** MySQL, Tableau
 
 **[4. Helmet-Wearing Object Image Classification using Deep Learning](https://github.com/maidinh2409/AIDS-ML-Classification)**
 
@@ -52,8 +65,17 @@ This dataset contains information on user check-ins at different gym locations, 
 - Models: Deep Neural Network (DNN), Convolutional Neural Network (CNN)
 - Libraries & Tools: PyTorch, OpenCV, Gradio, Google Colab
 
+_(Other ML Projects: https://github.com/maidinh2409/ML-Repositories)_
     
 **[5. Real Estate Sales Analysis 2001 - 2022](https://github.com/maidinh2409/Real-Estate-Sales-Analysis)**
 
-This dataset, sourced from data.gov, contains over 1 million rows of real estate sales data spanning 21 years. It was utilized to clean and transform data using pandas, addressing null values, resolving inconsistencies, and detecting outliers through statistical analysis and visualization. Exploratory Data Analysis (EDA) was conducted using Matplotlib and Seaborn to plot and analyze distributions, patterns, and trends, yielding insights based on metrics and distribution theory.
-  - Tool used: Python
+**<ins>Description:</ins>** This project analyzes over two decades of real estate sales data, comprising 1M+ records from data.gov. The dataset was cleaned, transformed, and analyzed using statistical methods and visual exploration techniques to uncover meaningful market trends.
+
+**<ins>Purpose:</ins>** To apply data wrangling and exploratory data analysis techniques to a large-scale real-world dataset, focusing on trend identification, outlier detection, and data quality improvement.
+
+**<ins>Expected insights:</ins>** Revealed long-term patterns in property sales, price distributions, and anomalies across time, supporting data-driven perspectives on market dynamics.
+
+**<ins>Tech Stack:</ins>**
+
+- Languages: Python
+- Libraries & Tools: pandas, matplotlib, seaborn

@@ -4,7 +4,7 @@ Each project in this portfolio demonstrates my ability to tackle diverse analyti
 
 Please explore the individual projects in this portfolio for a more detailed understanding of my data analytics capabilities and how I can contribute to your organization's success.
 
-**[1. Exoplanet Habitability Analysis](https://github.com/maidinh2409/Exoplanet-Hability-Analysis)**
+**[1. Exoplanet Habitability Analysis (Astronomy)](https://github.com/maidinh2409/Exoplanet-Hability-Analysis)**
 
 **<ins>Description:</ins>** End-to-end project assessing exoplanet habitability using real astronomical data. I structured the workflow into three stages:
 
@@ -23,7 +23,7 @@ Please explore the individual projects in this portfolio for a more detailed und
 - Languages: Python, SQL
 - Tools: dbt, Google BigQuery, Power BI, RESTFul APIs (NASA, Asterank)
 
-**[2. AIDS-Survivor-ML-Classifiers](https://github.com/maidinh2409/AIDS-ML-Classification)**
+**[2. AIDS-Survivor-ML-Classifiers (Healthcare)](https://github.com/maidinh2409/AIDS-ML-Classification)**
 
 **<ins>Description:</ins>** This project focuses on survival prediction for HIV/AIDS patients based on clinical trial data. Using features such as treatment type and observation period, I applied multiple machine learning classifiers to predict patient outcomes and analyze the effectiveness of ZDV treatment.
 
@@ -67,7 +67,7 @@ _(Other ML Projects: https://github.com/maidinh2409/ML-Repositories)_
 
 _(Other ML Projects: https://github.com/maidinh2409/ML-Repositories)_
     
-**[5. Real Estate Sales Analysis 2001 - 2022](https://github.com/maidinh2409/Real-Estate-Sales-Analysis)**
+**[5. Real Estate Sales Analysis 2001 - 2022 (Real Estate)](https://github.com/maidinh2409/Real-Estate-Sales-Analysis)**
 
 **<ins>Description:</ins>** This project analyzes over two decades of real estate sales data, comprising 1M+ records from data.gov. The dataset was cleaned, transformed, and analyzed using statistical methods and visual exploration techniques to uncover meaningful market trends.
 

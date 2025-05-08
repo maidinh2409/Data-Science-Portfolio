@@ -38,13 +38,13 @@ This dataset contains information on user check-ins at different gym locations, 
 
 **[4. Helmet-Wearing Object Image Classification using Deep Learning](https://github.com/maidinh2409/AIDS-ML-Classification)**
 
-**<ins>Test Product Interface:</ins>**: [Try the model on Hugging Face Spaces](https://huggingface.co/spaces/demile2409/CSIS-3290-Helmet-Image-Classification)
+<ins>[Try the model on Hugging Face Spaces](https://huggingface.co/spaces/demile2409/CSIS-3290-Helmet-Image-Classification)</ins>
 
-**<ins>Description:</ins>** A deep learning-based image classification project that detects whether individuals in images are wearing helmets. The model is trained on a custom dataset and deployed via an interactive web interface.
+**<ins>Description:</ins>** Inspired by real-world safety concerns, this project tackles the challenge of detecting helmet use in images using deep learning. I built and trained a CNN on a custom dataset, enabling the model to distinguish between helmet and non-helmet cases with high accuracy. The final product is deployed as an interactive web app for real-time testing.
 
-**<ins>Purpose:</ins>** To explore deep learning techniques in image classification and build a practical solution for safety compliance monitoring, with potential applications in construction sites and traffic surveillance.
+**<ins>Purpose:</ins>** To apply deep learning to a practical safety compliance problem and build a deployable solution for environments like construction sites and traffic monitoring.
 
-**<ins>Expected insights:</ins>** Demonstrates how convolutional neural networks (CNN) can effectively classify safety gear presence in real-world imagery. The final model yields interpretable predictions and is deployable for real-time use cases via a simple UI.
+**<ins>Expected insights:</ins>** Demonstrates how CNNs can effectively detect safety gear in real-world imagery and highlights the process of building an end-to-end ML product—from training to deployment.
 
 **<ins>Tech Stack:</ins>**
 

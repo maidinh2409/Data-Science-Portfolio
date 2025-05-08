@@ -38,7 +38,7 @@ This dataset contains information on user check-ins at different gym locations, 
 
 **[4. Helmet-Wearing Object Image Classification using Deep Learning](https://github.com/maidinh2409/AIDS-ML-Classification)**
 
-* *[Try the model on Hugging Face Spaces](https://huggingface.co/spaces/demile2409/CSIS-3290-Helmet-Image-Classification)* *
+*[Try the model on Hugging Face Spaces](https://huggingface.co/spaces/demile2409/CSIS-3290-Helmet-Image-Classification)*
 
 **<ins>Description:</ins>** Inspired by real-world safety concerns, this project tackles the challenge of detecting helmet use in images using deep learning. I built and trained a CNN on a custom dataset, enabling the model to distinguish between helmet and non-helmet cases with high accuracy. The final product is deployed as an interactive web app for real-time testing.
 
